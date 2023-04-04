@@ -1,0 +1,26 @@
+{
+  "name": "abhi_colorify",
+  "version": "1.0.0",
+  "description": "It's a library for console logs ",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhijeet884/abhi-colorify.git"
+  },
+  "keywords": [],
+  "author": "Abhijeet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abhijeet884/abhi-colorify/issues"
+  },
+  "homepage": "https://github.com/Abhijeet884/abhi-colorify#readme",
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  },
+  "files": ["lib/**/*"]
+}
